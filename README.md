@@ -33,7 +33,7 @@
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/Schema.png)
 
 
-***Technologies used:*** 
+Technologies used
 : Python, 
 : Flask (flask-restx, Marshmallow), 
 : JavaScript (React), 
@@ -44,5 +44,5 @@
 : Swagger, 
 : pgAdmin.
 
-
-[^1]: Git history ommited due to the safety reasons.
+Git history ommited due to the safety reasons.
+[^1]
