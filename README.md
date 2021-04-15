@@ -1,4 +1,4 @@
-# Dziabadaj
+
 *Final project for the university course "Databases 1".*
 
 > Dziabadaj is a website that allows the user
@@ -13,25 +13,25 @@
 - user info
 
 ##### Examples:
+*Registration panel*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/register_panel.png)
-**Registration panel**
+*Login panel*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/login_panel.png)
-**Login panel**
+*User panel*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/user_panel.png)
-**User panel**
+*Menu*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/menu.png)
-**Menu**
+*Reservation panel*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/vaccinaation_reserv.png)
-**Reservation panel**
+*Completed reservations*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/reservations_made.png)
-**Completed reservations**
 -----
+*Api documentation
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/api_docs.png)
-**Api documentation
+*Data flow diagram*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/dfd.png)
-**Data flow diagram**
+*Database schema*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/Schema.png)
-**Database schema**
 
 
 ***Technologies used:*** 
@@ -47,7 +47,3 @@
 
 
 [^1]: Git history ommited due to the safety reasons.
-
-
-
-img[alt=drawing] {height:480  width: 640px; }
