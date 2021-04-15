@@ -33,16 +33,15 @@
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/Schema.png)
 
 
-Technologies used
-: Python, 
-: Flask (flask-restx, Marshmallow), 
-: JavaScript (React), 
-: PostgreSQL, 
-: JWT, 
-: RESTful, 
-: Docker, 
-: Swagger, 
-: pgAdmin.
+***Technologies used:***
+- Python, 
+- Flask (flask-restx, Marshmallow), 
+- JavaScript (React), 
+- PostgreSQL, 
+- JWT, 
+- RESTful, 
+- Docker, 
+- Swagger, 
+- pgAdmin.
 
-Git history ommited due to the safety reasons.
-[^1]
+*Git history ommited due to the safety reasons.*
