@@ -1,8 +1,11 @@
 
 *Final project for the university course "Databases 1". The project code and documentation had to be written in polish, apologies for the inconvenience.*
+The main focus was on the backend. The frontend implements basic utilization.
 
 > Dziabadaj is a website that allows the user
 > to register for the vaccination jab.
+
+
 
 ##### Functionalities:
 - registration
