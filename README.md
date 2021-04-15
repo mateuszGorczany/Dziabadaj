@@ -22,7 +22,7 @@
 *Menu*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/menu.png)
 *Reservation panel*
-![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/vaccinaation_reserv.png)
+![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/vaccination_reserv.png)
 *Completed reservations*
 ![drawing](https://github.com/mateuszGorczany/Dziabadaj/blob/main/examples/reservations_made.png)
 *Api documentation*
