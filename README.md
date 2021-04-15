@@ -1,5 +1,5 @@
 
-*Final project for the university course "Databases 1". The project code and documentation had to be written in polish, apolgies for the inconvenience.*
+*Final project for the university course "Databases 1". The project code and documentation had to be written in polish, apologies for the inconvenience.*
 
 > Dziabadaj is a website that allows the user
 > to register for the vaccination jab.
